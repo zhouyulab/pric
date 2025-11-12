@@ -2,7 +2,7 @@
 
 #### Description
 
-This is the code repository for analzying pRIC-seq data in the project entitlted "Global atlas of enhancer-promoter interactome in cotton genome revealed by profiling RNA-RNA spatial interactions".
+This is the code repository for analyzing pRIC-seq data in the project entitled "Global atlas of enhancer-promoter interactome in cotton genome revealed by profiling RNA-RNA spatial interactions".
 
 #### Developers
 
